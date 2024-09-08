@@ -2,7 +2,7 @@
 
 # Usage
 1. Install the dependencies `npm i`
-2. Run the server (Running on port 3000) `node index.js` or use nodemon `npm i nodemon'
+2. Run the server (Running on port 3000) `node index.js` or use nodemon `npm i nodemon`
 3. If installed nodemon `nodemon index.js`
 
 ## Feel free to modify/add features and send a pull request of your changes
